@@ -1,132 +1,133 @@
 {
-  "cellphones": [
-     {
-        "id": 1,
-        "title": "iPhone",
-        "brand": "Apple",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/1029672-800-auto.png"
-      },
-      {
-        "id": 2,
-        "title": "Redminote 8",
-        "brand": "Xiaomi",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-1.png"
-      },
-      {
-        "id": 3,
-        "title": "Huawei p40",
-        "brand": "Huawei",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-2.png"
-      },
-      {
-        "id": 4,
-        "title": "Motorolla z",
-        "brand": "Motorolla",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-3.png"
-      }
-  ],
-  "videogames": [
-      {
-        "id": 1,
-        "title": "God of War",
-        "brand": "PS4",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/videojuego3.png"
-      },
-      {
-        "id": 2,
-        "title": "Gears of war",
-        "brand": "Xbox",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/videjouego1.png"
-      },
-      {
-        "id": 3,
-        "title": "The legend of zelda",
-        "brand": "Nintendo",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/Battlefield-1.png"
-      },
-      {
-        "id": 4,
-        "title": "Crash team reacing",
-        "brand": "PS4",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/videjouego1.png"
-      }
-  ],
-  "consoles": [
-      {
-        "id": 1,
-        "title": "Xbox one slim white",
-        "brand": "Xbox",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/xbox_one.jpg"
-      },
-      {
-        "id": 2,
-        "title": "Play station 5",
-        "brand": "Sony",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/console2.png"
-      },
-      {
-        "id": 3,
-        "title": "Nintento swtich",
-        "brand": "Nintendo",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/console3.png"
-      },
-      {
-        "id": 4,
-        "title": "Xbox series X",
-        "brand": "Xbox",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/Rectangle%201.png"
-      }
-  ],
-   
-  "electronics": [
-      {
-        "id": 1,
-        "title": "iPad",
-        "brand": "Apple",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/iPad_Air.png"
-      },
-      {
-        "id": 2,
-        "title": "Computador",
-        "brand": "MSI",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/electronico3.png"
-      },
-      {
-        "id": 3,
-        "title": "tablet",
-        "brand": "samsung",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/electronico1.png"
-      },
-      {
-        "id": 4,
-        "title": "iWatch",
-        "brand": "Apple",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/electronico2.png"
-      }
-  ]
-}
+    "cellphones": [
+       {
+          "id": 1,
+          "title": "iPhone",
+          "brand": "Apple",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/1029672-800-auto.png"
+        },
+        {
+          "id": 2,
+          "title": "Redminote 8",
+          "brand": "Xiaomi",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-1.png"
+        },
+        {
+          "id": 3,
+          "title": "Huawei p40",
+          "brand": "Huawei",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-2.png"
+        },
+        {
+          "id": 4,
+          "title": "Motorolla z",
+          "brand": "Motorolla",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-3.png"
+        }
+    ],
+    "videogames": [
+        {
+          "id": 1,
+          "title": "God of War",
+          "brand": "PS4",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/videojuego3.png"
+        },
+        {
+          "id": 2,
+          "title": "Gears of war",
+          "brand": "Xbox",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/videjouego1.png"
+        },
+        {
+          "id": 3,
+          "title": "The legend of zelda",
+          "brand": "Nintendo",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/Battlefield-1.png"
+        },
+        {
+          "id": 4,
+          "title": "Crash team reacing",
+          "brand": "PS4",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/videjouego1.png"
+        }
+    ],
+    "consoles": [
+        {
+          "id": 1,
+          "title": "Xbox one slim white",
+          "brand": "Xbox",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/xbox_one.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Play station 5",
+          "brand": "Sony",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/console2.png"
+        },
+        {
+          "id": 3,
+          "title": "Nintento swtich",
+          "brand": "Nintendo",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/console3.png"
+        },
+        {
+          "id": 4,
+          "title": "Xbox series X",
+          "brand": "Xbox",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/Rectangle%201.png"
+        }
+    ],
+     
+    "electronics": [
+        {
+          "id": 1,
+          "title": "iPad",
+          "brand": "Apple",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/iPad_Air.png"
+        },
+        {
+          "id": 2,
+          "title": "Computador",
+          "brand": "MSI",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/electronico3.png"
+        },
+        {
+          "id": 3,
+          "title": "tablet",
+          "brand": "samsung",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/electronico1.png"
+        },
+        {
+          "id": 4,
+          "title": "iWatch",
+          "brand": "Apple",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/electronico2.png"
+        }
+    ]
+  }
+  
