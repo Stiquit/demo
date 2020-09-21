@@ -30,37 +30,7 @@
         "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-3.png"
       }
   ],
-  "consoles": [
-      {
-        "id": 1,
-        "title": "Xbox one slim white",
-        "brand": "Xbox",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/xbox_one.jpg"
-      },
-      {
-        "id": 2,
-        "title": "Play station 5",
-        "brand": "Sony",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/console2.png"
-      },
-      {
-        "id": 3,
-        "title": "Nintento swtich",
-        "brand": "Nintendo",
-        "price": 500,
-        "image": "https://github.com/Stiquit/demo/blob/master/img/console3.png"
-      },
-      {
-        "id": 4,
-        "title": "Xbox series X",
-        "brand": "Xbox",
-        "price": 500,
-        "image":
-          "https://github.com/Stiquit/demo/blob/master/img/Rectangle%201.png"
-      },
-    ],
+  
   "videogames": [
       {
         "id": 1,
