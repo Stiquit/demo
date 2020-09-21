@@ -1,0 +1,29 @@
+{
+  "cellphones": [
+     {
+        "id": 1,
+        "title": "iPhone",
+        "brand": "Apple",
+        "image":
+          "https://github.com/Stiquit/demo/blob/master/img/1029672-800-auto.png"
+      },
+      {
+        "id": 2,
+        "title": "Redminote 8",
+        "brand": "Xiaomi",
+        "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-1.png"
+      },
+      {
+        "id": 3,
+        "title": "Huawei p40",
+        "brand": "Huawei",
+        "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-2.png"
+      },
+      {
+        "id": 4,
+        "title": "Motorolla z",
+        "brand": "Motorolla",
+        "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-3.png"
+      }
+  ]
+}
