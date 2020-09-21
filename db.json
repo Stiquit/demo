@@ -28,6 +28,64 @@
           "brand": "Motorolla",
           "price": 500,
           "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-3.png"
+        },
+        {
+          "id": 5,
+          "title": "iPhone",
+          "brand": "Apple",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/1029672-800-auto.png"
+        },
+        {
+          "id": 6,
+          "title": "Redminote 8",
+          "brand": "Xiaomi",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-1.png"
+        },
+        {
+          "id": 7,
+          "title": "Huawei p40",
+          "brand": "Huawei",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-2.png"
+        },
+        {
+          "id": 8,
+          "title": "Motorolla z",
+          "brand": "Motorolla",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-3.png"
+        },
+        {
+          "id": 9,
+          "title": "iPhone",
+          "brand": "Apple",
+          "price": 500,
+          "image":
+            "https://raw.githubusercontent.com/Stiquit/demo/master/img/1029672-800-auto.png"
+        },
+        {
+          "id": 10,
+          "title": "Redminote 8",
+          "brand": "Xiaomi",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-1.png"
+        },
+        {
+          "id": 11,
+          "title": "Huawei p40",
+          "brand": "Huawei",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-2.png"
+        },
+        {
+          "id": 12,
+          "title": "Motorolla z",
+          "brand": "Motorolla",
+          "price": 500,
+          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-3.png"
         }
     ],
     "videogames": [
