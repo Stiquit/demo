@@ -54,7 +54,7 @@
         "brand": "PS4",
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/videjouego1.png"
-      },
+      }
     ],
     "consoles": [
       {
@@ -81,7 +81,7 @@
         "brand": "Xbox",
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/Rectangle%201.png"
-      },
+      }
     ],
     "electronics": [
       {
@@ -110,6 +110,6 @@
         "brand": "Apple",
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/electronico2.png"
-      },
+      }
     ]
 }
