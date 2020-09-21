@@ -94,5 +94,38 @@
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/Rectangle%201.png"
       }
+    ],
+  "electronics": [
+      {
+        "id": 1,
+        "title": "iPad",
+        "brand": "Apple",
+         "price": 500,
+        "image": "https://github.com/Stiquit/demo/blob/master/img/iPad_Air.png"
+      },
+      {
+        "id": 2,
+        "title": "Computador",
+        "brand": "MSI",
+         "price": 500,
+        "image":
+          "https://github.com/Stiquit/demo/blob/master/img/electronico3.png"
+      },
+      {
+        "id": 3,
+        "title": "tablet",
+        "brand": "samsung",
+         "price": 500,
+        "image":
+          "https://github.com/Stiquit/demo/blob/master/img/electronico1.png"
+      },
+      {
+        "id": 4,
+        "title": "iWatch",
+        "brand": "Apple",
+         "price": 500,
+        "image":
+          "https://github.com/Stiquit/demo/blob/master/img/electronico2.png"
+      }
     ]
 }
