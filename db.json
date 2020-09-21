@@ -129,49 +129,6 @@
           "brand": "Xiaomi",
           "price": 500,
           "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-1.png"
-        },
-        {
-          "id": 19,
-          "title": "Huawei p40",
-          "brand": "Huawei",
-          "price": 500,
-          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-2.png"
-        },
-        {
-          "id": 20,
-          "title": "Motorolla z",
-          "brand": "Motorolla",
-          "price": 500,
-          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-3.png"
-        },
-        {
-          "id": 21,
-          "title": "iPhone",
-          "brand": "Apple",
-          "price": 500,
-          "image":
-            "https://raw.githubusercontent.com/Stiquit/demo/master/img/1029672-800-auto.png"
-        },
-        {
-          "id": 22,
-          "title": "Redminote 8",
-          "brand": "Xiaomi",
-          "price": 500,
-          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-1.png"
-        },
-        {
-          "id": 23,
-          "title": "Huawei p40",
-          "brand": "Huawei",
-          "price": 500,
-          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-2.png"
-        },
-        {
-          "id": 24,
-          "title": "Motorolla z",
-          "brand": "Motorolla",
-          "price": 500,
-          "image": "https://raw.githubusercontent.com/Stiquit/demo/master/img/CEL-3.png"
         }
     ],
     "videogames": [
@@ -249,22 +206,6 @@
           "id": 10,
           "title": "Gears of war",
           "brand": "Xbox",
-          "price": 500,
-          "image":
-            "https://raw.githubusercontent.com/Stiquit/demo/master/img/videjouego1.png"
-        },
-        {
-          "id": 11,
-          "title": "The legend of zelda",
-          "brand": "Nintendo",
-          "price": 500,
-          "image":
-            "https://raw.githubusercontent.com/Stiquit/demo/master/img/Battlefield-1.png"
-        },
-        {
-          "id": 12,
-          "title": "Crash team reacing",
-          "brand": "PS4",
           "price": 500,
           "image":
             "https://raw.githubusercontent.com/Stiquit/demo/master/img/videjouego1.png"
