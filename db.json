@@ -4,6 +4,7 @@
         "id": 1,
         "title": "iPhone",
         "brand": "Apple",
+        "price": 500,
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/1029672-800-auto.png"
       },
@@ -11,18 +12,21 @@
         "id": 2,
         "title": "Redminote 8",
         "brand": "Xiaomi",
+        "price": 500,
         "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-1.png"
       },
       {
         "id": 3,
         "title": "Huawei p40",
         "brand": "Huawei",
+        "price": 500,
         "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-2.png"
       },
       {
         "id": 4,
         "title": "Motorolla z",
         "brand": "Motorolla",
+        "price": 500,
         "image": "https://github.com/Stiquit/demo/blob/master/img/CEL-3.png"
       }
   ],
@@ -31,24 +35,28 @@
         "id": 1,
         "title": "Xbox one slim white",
         "brand": "Xbox",
+        "price": 500,
         "image": "https://github.com/Stiquit/demo/blob/master/img/xbox_one.jpg"
       },
       {
         "id": 2,
         "title": "Play station 5",
         "brand": "Sony",
+        "price": 500,
         "image": "https://github.com/Stiquit/demo/blob/master/img/console2.png"
       },
       {
         "id": 3,
         "title": "Nintento swtich",
         "brand": "Nintendo",
+        "price": 500,
         "image": "https://github.com/Stiquit/demo/blob/master/img/console3.png"
       },
       {
         "id": 4,
         "title": "Xbox series X",
         "brand": "Xbox",
+        "price": 500,
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/Rectangle%201.png"
       },
@@ -58,6 +66,7 @@
         "id": 1,
         "title": "God of War",
         "brand": "PS4",
+        "price": 500,
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/videojuego3.png"
       },
@@ -65,6 +74,7 @@
         "id": 2,
         "title": "Gears of war",
         "brand": "Xbox",
+        "price": 500,
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/videjouego1.png"
       },
@@ -72,6 +82,7 @@
         "id": 3,
         "title": "The legend of zelda",
         "brand": "Nintendo",
+        "price": 500,
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/Battlefield-1.png"
       },
@@ -79,6 +90,7 @@
         "id": 4,
         "title": "Crash team reacing",
         "brand": "PS4",
+        "price": 500,
         "image":
           "https://github.com/Stiquit/demo/blob/master/img/videjouego1.png"
       }
